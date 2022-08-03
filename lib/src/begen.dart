@@ -13,13 +13,13 @@ class Begen extends StatelessWidget {
    
     return MaterialApp(
        home: Scaffold(
-              backgroundColor: Color.fromARGB(255, 255, 255, 255),
+              backgroundColor:const Color.fromARGB(255, 255, 255, 255),
               body: Column(
                 children: [
                 Container(
                   width: double.infinity,
                   height: 140,
-                    decoration: BoxDecoration(
+                    decoration:const BoxDecoration(
                       color:Color.fromARGB(255, 162, 148, 240),
                       borderRadius: BorderRadius.only(bottomRight:Radius.circular(100),bottomLeft: Radius.circular(100)),
                     ), 
