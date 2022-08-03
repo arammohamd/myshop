@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "428520876497",
+    "project_id": "aram-wecode2",
+    "storage_bucket": "aram-wecode2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428520876497:android:5a9c388a806dab678f98f0",
+        "android_client_info": {
+          "package_name": "com.example.aram_app_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428520876497-8ht3hsojlbfs183t0r4in8fuklee2kbs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlLVMhdWcU9ufB8eguNal1GVkdX2n6lWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428520876497-8ht3hsojlbfs183t0r4in8fuklee2kbs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
